@@ -1,0 +1,5 @@
+ES6 và JavaScript
+Node.js
+React
+Redux với React
+Flexbox
